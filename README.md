@@ -2,7 +2,9 @@
 
 This repository offers Python codes to plot the performance bounds for multi-source DOA estimation, including a priori bound (APB), Cramer-Rao bound (CRB), and Ziv-Zakai Bound (ZZB). An example plot is shown below.
 
-<img src="Example.png" alt="Example Plot" width="400"/>
+<div style="text-align: center;">
+    <img src="Example.png" alt="Example Plot" width="500"/>
+</div>
 
 ## Reference
 
